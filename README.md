@@ -1,6 +1,6 @@
 # Hi there, I'm Doğukan! 👋
 
-I'm assionate about new front end and software technologies, and continuous self-improvement.Enjoy creating sleek and responsive applications in addition to being user friendly.
+I'm assionate about new front end and software technologies, and continuous self-improvement. Enjoy creating sleek and responsive applications in addition to being user friendly.
 
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=dogukanaktas&count_private=true&hide=contribs,prs&show_icons=true" />
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanaktas&layout=compact&show_icons=true" />
