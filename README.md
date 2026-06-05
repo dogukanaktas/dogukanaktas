@@ -1,6 +1,6 @@
 # Hi there, I'm Doğukan! 👋
 
-<p>I'm assionate about new front end and software technologies, and continuous self-improvement. Enjoy creating sleek and responsive applications in addition to being user friendly.</p>
+<p>I'm passionate about new front end and software technologies, and continuous self-improvement. Enjoy creating sleek and responsive applications in addition to being user friendly.</p>
 
 
 <a href="https://www.linkedin.com/in/dogukan-aktas/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
