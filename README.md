@@ -2,7 +2,8 @@
 
 <p>🌱 Focusing on Frontend + AI integration</p>
 <a href="https://www.daktas.dev/">🔗 daktas.dev</a>
-
+<p></p>
+<p></p>
 
 <a href="https://www.linkedin.com/in/dogukan-aktas/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
